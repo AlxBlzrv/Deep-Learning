@@ -11,7 +11,6 @@ Generative Adversarial Networks are a class of deep learning models used in unsu
 
 - **Abstract_Gallery_Generation/**:
   - **gan-art.ipynb**: Jupyter notebook containing the complete code for training and generating abstract art images using GANs.
-  - **Abstract_gallery**: Input data or datasets used in training.
   - **README.md**: This file, providing an overview and instructions for the project.
 
 ## Dependencies
@@ -42,6 +41,11 @@ Generative Adversarial Networks are a class of deep learning models used in unsu
    ```
 
 4. **Follow the instructions in the notebook to train the GAN and generate abstract art images.**
+
+
+## Acknowledgements
+
+This project uses a dataset obtained from [Kaggle](https://www.kaggle.com/datasets/bryanb/abstract-art-gallery). I would like to thank Kaggle and the dataset provider for making this data available for research and experimentation.
 
 
 ## License
